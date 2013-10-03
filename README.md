@@ -1,4 +1,4 @@
 redfusalibre-Wiki
 =================
 
-Wiki para documentación colaborativa
+Wiki para documentación colaborativa. Tema DokuWiki.
